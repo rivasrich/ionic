@@ -1,0 +1,8 @@
+{
+  "name": "aquipago",
+  "app_id": "e6c6c174",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
